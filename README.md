@@ -31,11 +31,9 @@ This project **does not require a virtual environment**.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/urban-analytics-dashboard.git
+git clone https://github.com/MAFaizan16/Multi-Plot-Dashboard-For-Urban-Analysis.git
 cd urban-analytics-dashboard
 ```
-
-Replace `YOUR-USERNAME` with your GitHub username.
 
 ### 2. Install the required packages
 
